@@ -1,5 +1,9 @@
 'use strict';
 
+/*************************************
+Worked together with and got help from Jerod and Michael
+***************************************/
+
 // LAB 2: SORTING AND CAMPY SCI-FI
 
 // Welcome to Lab 2 =)
